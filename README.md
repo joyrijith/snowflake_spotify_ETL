@@ -57,5 +57,9 @@ The dataset used for this project is obtained from this [Spotify](https://open.s
 ## Visualization
 The data analysis and visualisation for this project will be carried out in the future once the Datawarehouse has enough data over a period of time for the analysis<br>
 
+## Contributions
+Your inputs and contributions are always welcomed!!. Please **Fork** the repository and create a Pull Request to contribute
+## Contact
+Please feel free to contact me at [LinkedIn](https://www.linkedin.com/in/joy-chettiar/)
 
 
